@@ -1,0 +1,7 @@
+name: InternalLegend
+version: 1.0.0
+main: net.gabriel.internal.legend.com.InternalLegend
+author: xGabriel
+commands:
+  lenda:
+    description: Plugin's main command
